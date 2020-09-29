@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "54156319161",
+    "firebase_url": "https://bybrisk-762f0.firebaseio.com",
+    "project_id": "bybrisk-762f0",
+    "storage_bucket": "bybrisk-762f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54156319161:android:1c0fe1b83fab4b76cafe68",
+        "android_client_info": {
+          "package_name": "app.admin.com.bybrisk.www.bybrisk_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54156319161-g99t7ep7udrd39nob9ao00cbil0jaeiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.admin.com.bybrisk.www.bybrisk_admin",
+            "certificate_hash": "8716f2a7279741ae377d3915bc9c08d01aee6e41"
+          }
+        },
+        {
+          "client_id": "54156319161-vg28j2dshp2kmof9uopvmbpafbjg3ei4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl2hdW1gv9Wr_YoJP09U7mz5bCaby2zuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54156319161-vg28j2dshp2kmof9uopvmbpafbjg3ei4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54156319161:android:eda7f5d650e89baecafe68",
+        "android_client_info": {
+          "package_name": "app.com.bybrisk.www.bybrisk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54156319161-8tqsraioubqsd76hi4ls3ck682vqeich.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.com.bybrisk.www.bybrisk",
+            "certificate_hash": "8716f2a7279741ae377d3915bc9c08d01aee6e41"
+          }
+        },
+        {
+          "client_id": "54156319161-vg28j2dshp2kmof9uopvmbpafbjg3ei4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl2hdW1gv9Wr_YoJP09U7mz5bCaby2zuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54156319161-vg28j2dshp2kmof9uopvmbpafbjg3ei4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54156319161:android:b6e1f642d720ab4bcafe68",
+        "android_client_info": {
+          "package_name": "www.bybrisk.com.bybrisk_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54156319161-gsutmpo86hq3rn4t4da516mvmfk4jjkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.bybrisk.com.bybrisk_delivery",
+            "certificate_hash": "8716f2a7279741ae377d3915bc9c08d01aee6e41"
+          }
+        },
+        {
+          "client_id": "54156319161-vg28j2dshp2kmof9uopvmbpafbjg3ei4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl2hdW1gv9Wr_YoJP09U7mz5bCaby2zuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54156319161-vg28j2dshp2kmof9uopvmbpafbjg3ei4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
